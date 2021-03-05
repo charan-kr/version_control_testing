@@ -15,3 +15,7 @@
 <code>Work Flow</code>
 
 ## git branch <new branch> 
+## git add -A
+## git status
+## git commit -m "message"
+## git push -u origin calc-divide
